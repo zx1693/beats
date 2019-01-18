@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-size: 0; */
+}
+a{
+    text-decoration: none;
+}
+.header{
+    position: fixed;
+    z-index: 9;
+    width: 100%;
+    margin: 0 auto;
+    background: rgb(27,27,27);
+    text-align: center;
+    color: white;
+    height: 60px;
+    line-height: 60px;
+}
+.header .img_sea{
+    margin-bottom: -3px;
+}
+.header>img{
+    display: inline-block;
+    vertical-align: middle;
+}
+ul, li{
+    display: inline-block;
+
+}
+.header>ul>li{
+    width: 110px;
+}
+.header>ul>li>a{
+    color: white;
+    text-decoration: none;
+}
+.header>ul>li>a:hover{
+    border-bottom: 1px solid rgb(235,0,17);
+}

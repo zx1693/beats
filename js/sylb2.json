@@ -1,0 +1,83 @@
+{
+  "1": [
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0053_rgb_MP582-RGB-bttm_V2.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0052_rgb_MP582-RGB-front_V2.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0051_rgb_MP582-RGB-side_V2.png"
+    }
+  ],
+  "2":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/solo3wireless-matrix-colorselector_0005_MUH42_Solo3WL-SatinGold_RGB-BTTM_v4.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/solo3wireless-matrix-colorselector_0001_MUH42_Solo3WL-SatinGold_RGB-3QL_v4.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/solo3wireless-matrix-colorselector_0003_MUH42_Solo3WL-SatinGold_RGB-SIDE_v3.png"
+    }
+  ],
+  "3":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/icon/_0005_MR3T2-RGB-bttm.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/icon/_0003_MR3T2-RGB-front.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/icon/_0001_MR3T2-RGB-side.png"
+    }
+  ],
+  "4":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0068_rgb_MNEN2-RGB-bttm_V2.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0067_rgb_MNEN2-RGB-front_V2.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0066_rgb_MNEN2-RGB-side_V2.png"
+    }
+  ],
+  "5":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0065_rgb_MNEP2-RGB-bttm_V2.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0064_rgb_MNEP2-RGB-front_V2.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0063_rgb_MNEP2-RGB-side_V2.png"
+    }
+  ],
+  "6":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0056_rgb_MNET2-RGB-bttm.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0055_rgb_MNET2-RGB-front.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0054_rgb_MNET2-RGB-side.png"
+    }
+  ],
+  "8":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0062_rgb_MNEQ2-RGB-bttm_V2.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0061_rgb_MNEQ2-RGB-front_V2.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0060_rgb_MNEQ2-RGB-side_V2.png"
+    }
+  ],
+  "9":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0002_rgb_MP162-RGB-bttm_V2.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0000_rgb_MP162-RGB-front_V2.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/_0001_rgb_MP162-RGB-side_V2.png"
+    }
+  ],
+  "10":[
+    {
+      "img1": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/MRQC2-RGB-bttm.png"
+    },{
+      "img2": "https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/MRQC2-RGB-front.png"
+    },{
+      "img3": "https://www.beatsbydre.com/content/content/dam/beats/web/pdp/beats-solo3-wireless/color_selector/MRQC2-RGB-side.png"
+    }
+  ]
+}

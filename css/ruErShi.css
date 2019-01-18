@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    list-style: none;
+}
+.banner_1{
+    height: 405px;
+    background: url("https://www.beatsbydre.com/content/dam/beats/web/pcp/earphones/hero/header_earphones_retina_3440x810_V2.jpg.large.1x.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner_1>h1{
+    color: #fff;
+    text-align: center;
+    line-height: 405px;
+    font-size: 70px;
+}
+.beats_studio{
+    background: #e8e6e6;
+    padding: 20px 0;
+}
+.beats_studio_1{
+    width: 1200px;
+    margin: 10px auto;
+    background: #fefefe;
+    padding: 60px ;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+.beats_left>img{
+    width: 440px;
+}
+.beats_right{
+    color: #7a7878;
+}
+.beats_right>h1{
+    color: #000;
+    margin-bottom: 25px;
+}
+.beats_right .sup_c{
+    color: red;
+}
+.beats_right>p{
+    margin-bottom: 14px;
+}
+.beats_studio_1>div{
+    width: 42%;
+}
+.beats_right ul>li:before{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    content: "";
+    color: #e6e6e6;
+    border: 2px solid #919191;
+    display: inline-block;
+}
+.beats_right>ul>li{
+    margin-top: 15px;
+}
+.beats_right>h3{
+    font-size: 18px;
+    color: #333333;
+    margin-top: 35px;
+}
+.beats_right>a{
+    position: relative;
+}
+.beats_right span{
+    display: inline-block;
+    width: 160px;
+    height: 30px;
+    color: #fff;
+    border-radius:20px;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 25px;
+}
+
+.beats_right .studio_search{
+    background: url("../images/btn_bg.jpg") ;
+    border: 2px solid #d3d2d2;
+    color: #222021;
+    transition: all 1s;
+}
+.beats_right .studio_search:hover{
+    color: #fff;
+    background-position: bottom;
+}
+.buy{
+    background: url("../images/btn_bg.jpg") ;
+    background: #e01e3c;
+    transition: all 1s;
+}
+.buy:hover{
+    color: #fff;
+    background-position: bottom;
+}
+.join{
+    background: #e8e6e6;
+}
+.join>div{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    background: #fefefe;
+    padding-top: 20px;
+}
+.join h3{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.join p{
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.ma{
+    width: 172px;
+    height: 172px;
+    margin: 0 auto;
+    height: 172px;
+    background: url("../images/img/qrcode.jpg")no-repeat;
+}

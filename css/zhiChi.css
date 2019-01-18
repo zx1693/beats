@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    position: relative;
+}
+.banner>img{
+    width: 100%;
+    height: 100%;
+}
+.support{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #222021;
+    text-align: center;
+}
+.support>h1{
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+.help_describe{
+    width: 1200px;
+    margin: 0 auto;
+}
+.help_describe>h1,.help_describe>p{
+    text-align: center;
+}
+.help_describe>h1{
+    padding: 30px;
+}
+.list_describe{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.list_1,.list_total>div{
+    width: 16%;
+}
+.list_describe .list_1>img{
+    width: 80%;
+}
+.list_total{
+    display: flex;
+    justify-content: space-between;
+}
+.list_total dd>a{
+    color: #000;
+}
+.category{
+    height: 0;
+    overflow: hidden;
+}
+.btn{
+    color: mediumvioletred;
+    text-align: center;
+}
+.hot{
+    position: relative;
+    margin-top: 100px;
+}
+.hot_left{
+    width: 1200px;
+    margin: 0 auto;
+}
+.hot>img{
+    width: 100%;
+    height: 100%;
+}
+.hot_theme{
+    width: 33%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.hot_theme>h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.hot_1{
+    height: 71.8px;
+    overflow: hidden;
+}
+.hot_1>p{
+    padding: 25px;
+    border-top: 1px solid #dddddd;
+    display: flex;
+    justify-content: space-between;
+}
+.hot_1>div>p{
+    padding: 25px;
+}
+.more_resources{
+    background: #f4f4f4;
+}
+.more_resources>h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 100px 0 60px 0;
+}
+.juz{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+.tiles{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.tile>h4{
+    font-size: 24px;
+}
+.tile>p{
+    font-size: 13px;
+}
+.tile{
+    width: 22%;
+    background: #fff;
+    padding: 5%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.tile>h4{
+    margin: 10px 0;
+}
+.btn_1{
+    margin:42px 0 0 0;
+    display: inline-block;
+    width: 207px;
+    height: 40px;
+    border: 1px solid #d3d2d2;
+    border-radius: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: #000;
+    background: url("../images/btn_bg.jpg");
+    transition: all 0.5s;
+}
+.btn_1:hover{
+    color: #fff;
+    background-position: bottom;
+}

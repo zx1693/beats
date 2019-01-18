@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container,.design{
+    width: 1200px;
+    margin: 0 auto;
+}
+.banner{
+    height: 680px;
+    background: url("https://www.beatsbydre.com/content/dam/beats/web/pdp/beats-pill-plus/hero/pillplus_pdp_hero_retina_V2.jpg");
+    background-size: 100%;
+}
+.text{
+    position: relative;
+    font-size: 50px;
+    top: 200px;
+    color: #fff;
+    text-align: right;
+}
+.text>p{
+    font-size: 15px;
+    margin-top: 50px;
+    padding-right: 225px;
+}
+
+.content{
+    background: #e8e6e6;
+    padding-bottom: 40px;
+}
+.content_mdl{
+    text-align: center;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 30px 0;
+    background: #fff;
+}
+.content_mdl>h1,.tu,.content_mdl>div:nth-child(3){
+    margin: 30px auto;
+}
+.design_1{
+    display: flex;
+    justify-content: space-between;
+}
+.design_1>div:nth-child(1){
+    width: 40%;
+    padding: 40px;
+}
+.design_1>div:nth-child(1)>h1{
+    font-size: 40px;
+}
+.play_a{
+    width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.kl{
+    width: 30%;
+    padding: 30px;
+}
+.microphone_left{
+    padding: 14%;
+}
+.microphone_left>h1{
+    margin-bottom: 30px;
+}
+.microphone_left>p{
+    color: #7a7878;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.bb{
+    width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    text-align: center;
+}
+.bb>h1,.bb>p{
+    padding: 20px 0;
+}

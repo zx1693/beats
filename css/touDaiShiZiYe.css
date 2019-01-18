@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    list-style: none;
+}
+.banner{
+    height: 820px;
+    position: relative;
+}
+.banner_3{
+    width: 100%;
+    height: 820px;
+}
+.text-inner{
+    color: #fff;
+    position: absolute;
+    left:61%;
+    top: 25%;
+    font-size: 27px;
+}
+.text-inner>h1{
+    width: 230px;
+}
+.describe{
+    width: 340px;
+    font-size: 15px;
+}
+.price{
+    font-size: 20px;
+}
+.price>a{
+    display: inline-block;
+    width: 160px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    border-radius: 25px;
+    background: url("../images/buy_btn_bg.jpg");
+    transition: all 1s;
+}
+.price>a:hover{
+    background-position: right bottom;
+}
+/*选颜色*/
+.selectionColor{
+    width: 100%;
+    background: url("../images/bg-dark.jpg");
+    background-size: 100%;
+    box-sizing: border-box;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.selectionColor>div{
+    width: 1700px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.cor{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.cor img{
+    width: 100%;
+}
+.cr_lt{
+    padding: 150px 30px;
+}
+.cr_lt>h2{
+    margin: 30px 0 40px 0;
+    color: #fff;
+    font-size: 50px;
+}
+.sec>ul{
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgba(162, 162, 162, 0.23);
+}
+.sec>ul>li{
+    display: flex;
+    width: 200px;
+    margin: 15px 0;
+}
+.sec>ul>li>p{
+    margin-left: 15px;
+    line-height: 30px;
+    color: #fff;
+    font-size: 13px;
+}
+.cr_lt>p{
+    color: #a7a6a6;
+    font-size: 13px;
+}
+.cr_rt>ul>li>img{
+    width: 640px;
+    height: 640px;
+}
+.cr_rt>ul>li{
+    width: 640px;
+    height: 640px;
+    display: none;
+}
+#show{
+    display: block;
+}
+.dian{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: #b5b4b4;
+}
+.dian>ul{
+    display: flex;
+    align-items: center;
+}
+.dian>ul>li{
+    width: 10px;
+    height: 10px;
+    background: #b5b4b4;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+#bg_ys{
+    background: #e01e3c;
+}
